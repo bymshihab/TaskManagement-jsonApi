@@ -1,0 +1,84 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Complete Angular Project",
+      "description": "Finish implementing the Online Task Manager app features.",
+      "category": "Work",
+      "dueDate": "2024-01-05",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "Grocery Shopping",
+      "description": "Buy vegetables, fruits, and snacks for the week.",
+      "category": "Personal",
+      "dueDate": "2024-01-03",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "Team Meeting",
+      "description": "Discuss the project milestones and next sprint planning.",
+      "category": "Work",
+      "dueDate": "2024-01-04",
+      "completed": false
+    },
+    {
+      "id": 4,
+      "title": "Workout",
+      "description": "Go to the gym for a 45-minute cardio session.",
+      "category": "Health",
+      "dueDate": "2024-01-02",
+      "completed": true
+    },
+    {
+      "id": 5,
+      "title": "Birthday Gift for Juthi",
+      "description": "Buy a birthday gift for Juthi and wrap it nicely.",
+      "category": "Personal",
+      "dueDate": "2024-01-08",
+      "completed": false
+    },
+    {
+      "id": 6,
+      "title": "Fix Bug in API",
+      "description": "Investigate and fix the bug causing 500 errors in the API.",
+      "category": "Work",
+      "dueDate": "2024-01-06",
+      "completed": false
+    },
+    {
+      "id": 7,
+      "title": "Meditation",
+      "description": "Spend 20 minutes meditating in the morning.",
+      "category": "Health",
+      "dueDate": "2024-01-03",
+      "completed": true
+    },
+    {
+      "id": 8,
+      "title": "Prepare Presentation",
+      "description": "Prepare slides for the upcoming client meeting.",
+      "category": "Work",
+      "dueDate": "2024-01-07",
+      "completed": false
+    },
+    {
+      "id": 9,
+      "title": "Car Servicing",
+      "description": "Take the car for its scheduled servicing.",
+      "category": "Personal",
+      "dueDate": "2024-01-09",
+      "completed": false
+    },
+    {
+      "id": 10,
+      "title": "Weekly Meal Prep",
+      "description": "Prepare meals for the week to save time during busy days.",
+      "category": "Health",
+      "dueDate": "2024-01-03",
+      "completed": true
+    }
+  ]
+}
